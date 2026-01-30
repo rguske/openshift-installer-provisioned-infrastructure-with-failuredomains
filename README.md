@@ -2,7 +2,7 @@
 
 This OpenShift installation on VMware vSphere will make use of the IPI feature `FailureDomains` in order to place the nodes in specific resource types like e.g. a vSphere cluster, resource pool and or VM folder. Furthermore, it'll configure the different nodes types with different networks (separation).
 
-[!vsphere-client](assets/vsphere-client-failuredomain.png)
+![vsphere-client](assets/vsphere-client-failuredomain.png)
 
 - [OpenShift Installer Provisioned Infrastructure (IPI) with vSphere FailureDomains](#openshift-installer-provisioned-infrastructure-ipi-with-vsphere-failuredomains)
   - [Installation](#installation)
