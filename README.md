@@ -47,7 +47,7 @@ zone-worker  openshift-zone
 zone-cp      openshift-zone
 ```
 
-In my setup, I also had to configre a RHEL router which serves the communication between two different VLANs which can't a) communicate with each other and which b) have no internet access. The router setup is documented [here](#rhel9-router-installation).
+I also had to configre a RHEL router which serves the communication between two different VLANs which can't a) communicate with each other and which b) have no internet access. The router setup is documented [here](#rhel9-router-installation).
 
 ### Installing necessary CLIs
 
